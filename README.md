@@ -1,3 +1,6 @@
+[![Deploy to GitHub Pages](https://github.com/poyegade/Oyegade---Work-management/actions/workflows/deploy.yml/badge.svg)](https://github.com/poyegade/Oyegade---Work-management/actions/workflows/deploy.yml)
+
+
 # TechFlow Solutions Website
  
 A modern, responsive website for TechFlow Solutions, a web development company specializing in custom websites for small businesses.
