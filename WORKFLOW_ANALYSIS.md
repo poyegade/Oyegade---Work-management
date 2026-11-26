@@ -43,7 +43,7 @@ environment:
 
 ## 5. How does this automated deployment improve reliability compared to manual deployment?
 
-Automated deployment improves reliability because every deployment follows the same process. The workflow automatically validates the website, checks for issues, uploads the files, and deploys the site. This reduces human error, ensures consistency, and makes deployments faster and more dependable.
+Automated deployment improves reliability because every deployment follows the same process. The workflow automatically validates the website, checks for issues, uploads the files, and deploys the site. This helps catch errors early and ensures that the live website is always deployed using a consistent and repeatable process.
 
 ## 6. What would happen if you pushed code to a different branch (not main)?
 
@@ -56,3 +56,4 @@ if: github.event_name == 'push' && github.ref == 'refs/heads/main'
 ```
 
 Therefore, pushes to branches other than `main` will not trigger a GitHub Pages deployment.
+ 
